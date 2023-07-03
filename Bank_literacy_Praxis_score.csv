@@ -1,0 +1,174 @@
+Gender,AGE,District,Locality,Educational Qualification,Job_Type,Monthly Income,Bank (Preferrable),Type of Bank Account,Money Transfer Method,Investment Type,Satisfactied_with_Bank,Score
+Woman,52,Hooghly,Village,Post Graduation,"
+Government service",above Rs 50000,Public bank,"Savings Account, Salary Account",NEFT,Pf,Yes,1.125
+Man,63,Hooghly,Village,Diploma ,Business,Rs 20000 to Rs 30000,Public bank,Savings Account,UPI,Mutual Fund,Not,1.265625
+Woman,51,North 24 Parganas,Suburbs,Higher Secondary,Housewife,Rs5000 to Rs10000,Private bank,Savings Account,none,Fixed Deposit,Yes,0.188802083
+Woman,27,Hooghly,Village,Graduation,Private job,Rs 30000 to Rs 40000,Private bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit",Yes,21.18880208
+Man,28,Hooghly,Village,Higher Secondary,"
+Government service",Rs5000 to Rs10000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,3.77360026
+Man,28,Hooghly,Village,Higher Secondary,Private job,Rs5000 to Rs10000,Private bank,Salary Account,UPI,none,Not,2.943400065
+Man,22,Howrah ,City,Graduation,Student,below Rs. 5000,Private bank,Savings Account,"NEFT, DEMAND DRAFT, UPI",none,Yes,2.735850016
+Man,24,North 24 Parganas,City,Post Graduation,Private job,Rs 20000 to Rs 30000,Public bank,"Savings Account, Salary Account",UPI,Fixed Deposit,Yes,3.183962504
+Man,58,Howrah,Suburbs,Primary Education,Worker,below Rs. 5000,Public bank,Savings Account,none,none,Yes,0.348663542
+Woman,17,North 24 Parganas,City,Higher Secondary,Student,below Rs. 5000,Public bank,Savings Account,none,none,Yes,0.112388629
+Man,43,North 24 Parganas,Suburbs,Graduation,"
+Government service",Rs 20000 to Rs 30000,Public bank,Savings Account,none,Fixed Deposit,Yes,1.139048579
+Man,20,North 24 Parganas,Suburbs,Graduation,Student,below Rs. 5000,Public bank,Not,UPI,none,Not,0
+Man,27,North 24 Parganas,City,Post Graduation,Student,Rs 30000 to Rs 40000,Public bank,Savings Account,All,"Fixed Deposit, Recurrent Deposit, Share Market, National Schemes through Post office",Yes,11
+Woman,27,Kolkata,City,Post Graduation,Private job,above Rs 50000,Public bank,"Savings Account, Salary Account","RTGS, NEFT, DEMAND DRAFT, IMPS, UPI, All",none,Not,32
+Man,26,Hooghly,Suburbs,Post Graduation,Student,Rs 20000 to Rs 30000,Public bank,"Savings Account, Salary Account","NEFT, DEMAND DRAFT, IMPS, UPI",none,Not,51
+Woman,23,West Midnapore,Village,Graduation,Private job,Rs5000 to Rs10000,Public bank,Savings Account,"DEMAND DRAFT, UPI",Recurrent Deposit,Yes,17.5
+Woman,24,North 24 Parganas,Suburbs,Graduation,Private job,Rs 20000 to Rs 30000,Private bank,Savings Account,UPI,none,Yes,3.583333333
+Woman,25,North 24 Parganas,Suburbs,Graduation,"
+Government service",Rs 40000 to Rs 50000,Public bank,Savings Account,UPI,none,Yes,11.79166667
+Man,57,North 24 Parganas,Suburbs,Graduation,Business,above Rs 50000,Public bank,Current Account,RTGS,Fixed Deposit,Yes,8.131944444
+Woman,25,North 24 Parganas,Suburbs,Graduation,"
+Government service",below Rs. 5000,Private bank,Savings Account,UPI,none,Yes,14.06597222
+Man,32,North 24 Parganas,City,Higher Secondary,Private job,Rs5000 to Rs10000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,5.516493056
+Man,26,West Midnapore,Village,Graduation,Self -reliant,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,1.814561632
+Woman,25,North 24 Parganas,Village,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,"NEFT, DEMAND DRAFT, UPI","Mutual Fund, National Schemes through Post office",Not,22.81456163
+Man,26,North 24 Parganas,Suburbs,Post Graduation,"
+Government service",Rs 30000 to Rs 40000,Public bank,"Savings Account, Current Account","RTGS, NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Mutual Fund, National Schemes through Post office",Yes,22.40728082
+Man,25,South 24 parganas,Village,Graduation,Student,Rs 20000 to Rs 30000,Private bank,Salary Account,UPI,"Fixed Deposit, Recurrent Deposit",Yes,21.20364041
+Woman,19,North 24 Parganas,City,Higher Secondary,Student,Rs 10000 to Rs 20000,Public bank,Current Account,none,none,Yes,0
+Man,24,North 24 Parganas,City,Graduation,"
+Government service",Rs 40000 to Rs 50000,Public bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit, Mutual Fund",Yes,1.125
+Man,30,North 24 Parganas,Suburbs,Post Graduation,Private job,Rs 10000 to Rs 20000,Public bank,"Savings Account, Salary Account","RTGS, NEFT, DEMAND DRAFT, IMPS, UPI, All",Fixed Deposit,Not,2.78125
+Man,24,North 24 Parganas,Village,Graduation,Private job,Rs 30000 to Rs 40000,Public bank,"Savings Account, Salary Account","NEFT, UPI",none,Yes,23.78125
+Woman,25,North 24 Parganas,Suburbs,Higher Secondary,Housewife,below Rs. 5000,Private bank,Savings Account,UPI,"Fixed Deposit, Recurrent Deposit",Yes,22.890625
+Man,24,North 24 Parganas,Suburbs,Graduation,"
+Government service",above Rs 50000,Private bank,"Savings Account, Salary Account",All,All,Yes,43.890625
+Woman,23,North 24 Parganas,Suburbs,Graduation,Self -reliant,below Rs. 5000,Public bank,Savings Account,UPI,Mutual Fund,Yes,3.740885417
+Man,28,North 24 Parganas,Suburbs,Graduation,Student,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,"Fixed Deposit, Mutual Fund",Yes,24.74088542
+Man,20,North 24 Parganas,Suburbs,Higher Secondary,Business,Rs 20000 to Rs 30000,Private bank,Not,none,none,Not,0
+Man,22,North 24 Parganas,Suburbs,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,none,none,Yes,0
+Man,24,North 24 Parganas,Suburbs,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,"Savings Account, Salary Account","RTGS, NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit, Mutual Fund, Share Market, National Schemes through Post office",Yes,11
+Man,25,Hooghly,City,Post Graduation,Student,Rs5000 to Rs10000,Public bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit, Mutual Fund, Share Market",Yes,32
+Man,50,North 24 Parganas,Suburbs,Graduation,Private job,above Rs 50000,Public bank,Savings Account,"NEFT, IMPS",Fixed Deposit,Yes,53
+Man,27,North 24 Parganas,City,Graduation,Business,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,Fixed Deposit,Yes,36.5
+Man,27,Hooghly,Village,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,UPI,none,Yes,28.25
+Woman,23,North 24 Parganas,Suburbs,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,"Savings Account, Salary Account","RTGS, NEFT, UPI",Fixed Deposit,Yes,9.5625
+Man,24,North 24 Parganas,Suburbs,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, IMPS, UPI, All","Recurrent Deposit, Mutual Fund",Yes,15.78125
+Woman,27,Barddhaman,City,Post Graduation,Housewife,Rs5000 to Rs10000,Public bank,Savings Account,All,Fixed Deposit,Yes,6.4453125
+Woman,26,West Midnapore,Village,Graduation,"
+Government service",Rs 20000 to Rs 30000,Public bank,Salary Account,"RTGS, NEFT, UPI",Fixed Deposit,Yes,3.611328125
+Man,24,North 24 Parganas,Suburbs,Graduation,Self -reliant,below Rs. 5000,Private bank,Savings Account,UPI,Share Market,Yes,11.80566406
+Man,25,North 24 Parganas,City,Post Graduation,Student,below Rs. 5000,Public bank,Not,none,none,Yes,0
+Man,18,North 24 Parganas,City,Secondary,Business,Rs 20000 to Rs 30000,Private bank,Savings Account,"NEFT, UPI","Fixed Deposit, Share Market",Yes,10
+Man,22,Nadia ,Village,Diploma,Business,Rs5000 to Rs10000,Public bank,Savings Account,UPI,"Fixed Deposit, Share Market",Yes,16
+Man,26,North 24 Parganas,City,Post Graduation,Private job,Rs 20000 to Rs 30000,Private bank,Savings Account,All,Share Market,Yes,37
+Man,24,North 24 Parganas,Suburbs,Post Graduation,Student,Rs5000 to Rs10000,Public bank,Savings Account,"NEFT, DEMAND DRAFT, UPI",none,Yes,29.5
+Man,26,West Midnapore,Village,Post Graduation,Self -reliant,below Rs. 5000,Private bank,Savings Account,none,Fixed Deposit,Yes,2.541666667
+Woman,36,North 24 Parganas,City,Graduation,Housewife,below Rs. 5000,Public bank,Savings Account,DEMAND DRAFT,none,Yes,0.295138889
+Woman,27,Barddhaman,City,Post Graduation,Housewife,Rs5000 to Rs10000,Public bank,Savings Account,All,Fixed Deposit,Yes,2.573784722
+Man,23,North 24 Parganas,City,Graduation,Student,Rs 10000 to Rs 20000,Private bank,Savings Account,"RTGS, NEFT, IMPS, UPI","Mutual Fund, Share Market",Yes,11.28689236
+Man,27,West Midnapore,Village,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,16.64344618
+Woman,25,North 24 Parganas,Suburbs,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,UPI,none,Yes,12.41086155
+Man,24,North 24 Parganas,Suburbs,Higher Secondary,Private job,below Rs. 5000,Private bank,Savings Account,none,none,Not,0
+Woman,21,North 24 Parganas,City,Higher Secondary,Self -reliant,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,0.083333333
+Man,20,North 24 Parganas,Suburbs,Graduation,Student,below Rs. 5000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,7.361111111
+Man,21,North 24 Parganas,City,Graduation,Student,below Rs. 5000,Public bank,Savings Account,"NEFT, IMPS, UPI",Fixed Deposit,Not,14.68055556
+Man,28,Hooghly,Suburbs,Graduation,Private job,Rs 20000 to Rs 30000,Public bank,Savings Account,UPI,none,Yes,2.960069444
+Man,37,North 24 Parganas,Suburbs,Secondary,Private job,Rs5000 to Rs10000,Public bank,Savings Account,NEFT,none,Yes,1.495008681
+Man,47,West Midnapore,Village,Primary education,Self -reliant,below Rs. 5000,Public bank,Savings Account,none,none,Yes,0.20791739
+Man,20,North 24 Parganas,City,Higher Secondary,Student,below Rs. 5000,Public bank,Current Account,UPI,none,Yes,0.100659783
+Woman,43,West Midnapore,Village,Secondary,Housewife,below Rs. 5000,Public bank,"Savings Account, No",none,none,Not,0
+Man,26,North 24 Parganas,City,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,"UPI, All",Share Market,Yes,11
+Man,30,Purulia,Village,Graduation,Student,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,15.5
+Man,22,West Midnapore,Village,Higher Secondary,Private job,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,Fixed Deposit,Yes,5.875
+Man,27,Nadia,Village,Graduation,Student,below Rs. 5000,Public bank,Savings Account,UPI,none,Not,1.859375
+Woman,20,South 24 parganas,Suburbs,Diploma,Private job,Rs5000 to Rs10000,Private bank,"Savings Account, Salary Account",UPI,Fixed Deposit,Yes,8.71484375
+Man,41,Bankura,City,Higher Secondary,Student,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,0.809570313
+Woman,24,Hooghly,Village,Graduation,Private job,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,1.226196289
+Woman,25,North 24 Parganas,City,Graduation,Private job,Rs 10000 to Rs 20000,Private bank,"Savings Account, Salary Account",none,none,Yes,2.806549072
+Man,19,West Midnapore,Village,Eighth grade,Private job,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,none,Yes,12.40327454
+Man,24,North 24 Parganas,Suburbs,Graduation,Student,below Rs. 5000,Public bank,Savings Account,"NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit, National Schemes through Post office",Yes,16.20163727
+Woman,28,Hooghly,Village,Graduation,Private job,Rs 20000 to Rs 30000,Public bank,"Savings Account, Salary Account","NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit",Yes,19.10081863
+Woman,27,Howrah,City,Graduation,Private job,Rs 20000 to Rs 30000,Private bank,"Savings Account, Salary Account",All,Fixed Deposit,Yes,20.55040932
+Woman,19,Hooghly,Suburbs,Diploma,Private job,Rs5000 to Rs10000,Private bank,Salary Account,All,none,Yes,3.693801165
+Woman,24,Howrah,Village,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,"Savings Account, Salary Account","NEFT, IMPS, UPI",Fixed Deposit,Yes,3.423450291
+Woman,33,Kolkata,City,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,"Savings Account, Salary Account",UPI,Fixed Deposit,Yes,12.71172515
+Woman,24,Kolkata,City,Graduation,Private job,Rs 30000 to Rs 40000,Private bank,Salary Account,UPI,none,Yes,16.35586257
+Man,24,East midnapore ,Village,Graduation,Self -reliant,below Rs. 5000,Private bank,Savings Account,none,Fixed Deposit,Yes,1.446321881
+Woman,27,Hooghly,City,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,"NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit",Yes,2.86158047
+Woman,25,South 24 parganas ,City,Graduation,Private job,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,none,Not,1.482697559
+Woman,28,East midnapore ,Suburbs,Graduation,"
+Government service",Rs 30000 to Rs 40000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,2.87067439
+Woman,22,Howrah,Village,Graduation,Private job,Rs 10000 to Rs 20000,Private bank,"Savings Account, Salary Account",UPI,Fixed Deposit,Yes,12.43533719
+Woman,41,North 24 Parganas,Suburbs,Higher Secondary,Housewife,Rs 30000 to Rs 40000,Public bank,Savings Account,none,Fixed Deposit,Yes,8.239222866
+Man,24,North 24 Parganas,City,Graduation,Student,below Rs. 5000,Private bank,Savings Account,"IMPS, UPI",none,Yes,14.11961143
+Woman,21,Howrah,City,Diploma,Private job,Rs5000 to Rs10000,Public bank,Savings Account,UPI,"Fixed Deposit, Recurrent Deposit, National Schemes through Post office",Yes,11.77990286
+Man,28,Hooghly,Village,Diploma,Private job,Rs 20000 to Rs 30000,Private bank,Savings Account,"RTGS, UPI",none,Yes,30.77990286
+Man,29,KOLKATA,City,Graduation,Student,below Rs. 5000,Public bank,Savings Account,IMPS,Mutual Fund,Yes,26.38995143
+Woman,26,Howrah ,City,Graduation,Private job,Rs 20000 to Rs 30000,Private bank,Savings Account,All,All,Yes,47.38995143
+Woman,19,Jhargram,Village,Higher Secondary,Student,below Rs. 5000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,8.564991905
+Woman,46,West Midnapore,Village,Graduation,Business,Rs 10000 to Rs 20000,Public bank,Not,none,"none, All",Not,0
+Man,52,North 24 Parganas,Suburbs,Graduation,Business,above Rs 50000,Private bank,Savings Account,"RTGS, NEFT, IMPS, UPI",none,Yes,21
+Man,21,North 24 Parganas,Suburbs,Graduation,Student,below Rs. 5000,Public bank,Savings Account,All,Share Market,Yes,20.5
+Woman,25,West Midnapore,Village,Post Graduation,Self -reliant,below Rs. 5000,Public bank,Current Account,none,"Fixed Deposit, none",Yes,1.791666667
+Woman,24,North 24 Parganas,City,Graduation,"
+Government service",Rs 10000 to Rs 20000,Private bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, IMPS, UPI",none,Yes,20.79166667
+Woman,20,Kolkata ,City,Higher Secondary,Student,below Rs. 5000,Private bank,Savings Account,UPI,none,Yes,14.26388889
+Man,28,Kolkata ,City,Higher Secondary,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,"RTGS, NEFT, DEMAND DRAFT, IMPS, UPI",none,Yes,18.13194444
+Woman,28,Hooghly,Village,Post Graduation,"
+Government service",Rs 30000 to Rs 40000,Public bank,"Savings Account, Salary Account","RTGS, IMPS, UPI","Fixed Deposit, Recurrent Deposit, Mutual Fund, National Schemes through Post office",Not,3.391493056
+Man,19,Hooghly,Village,Secondary,Student,below Rs. 5000,Public bank,Savings Account,none,Fixed Deposit,Yes,0.365957755
+Woman,18,Hooghly,City,Higher Secondary,Student,below Rs. 5000,Public bank,Savings Account,UPI,"Mutual Fund, Share Market",Yes,0.113829813
+Man,25,Hooghly,Village,Higher Secondary,Self -reliant,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,15.55691491
+Man,24,Bankura,City,Graduation,Student,below Rs. 5000,Public bank,Savings Account,All,"Mutual Fund, Share Market",Yes,36.55691491
+Man,52,Barddhaman,City,Higher Secondary,"
+Government service",above Rs 50000,Public bank,Savings Account,NEFT,Mutual Fund,Yes,5.694614363
+Man,50,West Midnapore,Village,Secondary,Housewife,below Rs. 5000,Private bank,Savings Account,UPI,Fixed Deposit,Not,0
+Woman,24,North 24 Parganas,City,Graduation,"
+Government service",Rs 40000 to Rs 50000,Private bank,Savings Account,"NEFT, DEMAND DRAFT, UPI","Fixed Deposit, Recurrent Deposit",Yes,11
+Woman,25,Kolkata,City,Graduation,Private job,Rs 40000 to Rs 50000,Public bank,Savings Account,All,none,Not,7.5
+Man,25,North 24 Parganas,Suburbs,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,All,Mutual Fund,Yes,28.5
+Man,24,Kolkata,City,Post Graduation,Student,below Rs. 5000,Private bank,Savings Account,All,none,Yes,25.25
+Man,21,North 24 Parganas,Village,Graduation,Student,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,14.5625
+Man,24,North 24 Parganas,Suburbs,Post Graduation,Student,Rs5000 to Rs10000,Public bank,Savings Account,"NEFT, UPI",none,Yes,18.28125
+Man,27,North 24 Parganas,Suburbs,Post Graduation,Student,Rs5000 to Rs10000,Public bank,Savings Account,All,All,Yes,19.140625
+Man,18,North 24 Parganas,Suburbs,Secondary,Student,below Rs. 5000,Public bank,Current Account,"none, All","none, All",Not,0
+Man,18,North 24 Parganas,City,Secondary,Student,below Rs. 5000,Private bank,Not,none,none,Yes,0.083333333
+Man,17,North 24 Parganas,City,Secondary,Student,below Rs. 5000,Public bank,Not,none,none,Yes,0
+Man,16,North 24 Parganas,Village,Secondary,Student,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,0
+Man,23,Barddhaman,Village,Post Graduation,Student,below Rs. 5000,Private bank,Savings Account,"NEFT, IMPS, UPI",none,Not,8.25
+Man,27,West Midnapore,Village,PhD,Student,Rs 30000 to Rs 40000,Public bank,Savings Account,All,none,Yes,15.125
+Woman,16,North 24 Parganas,Suburbs,Secondary,Student,below Rs. 5000,Public bank,Not,UPI,none,Not,0
+Woman,16,North 24 Parganas,Suburbs,Secondary,Student,below Rs. 5000,Public bank,Savings Account,none,none,Yes,0.083333333
+Man,25,Barddhaman,Village,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,All,none,Yes,10.04166667
+Man,55,North 24 Parganas,Suburbs,Eighth grade,Self -reliant,below Rs. 5000,Private bank,Savings Account,UPI,Share Market,Not,5.010416667
+,42,,,,,below Rs. 5000,Public bank,Savings Account,UPI,none,Yes,9.005208333
+,24,,,,,Rs 20000 to Rs 30000,,"Savings Account, Salary Account",All,"Share Market, National Schemes through Post office",,0
+,62,,,,,Rs 20000 to Rs 30000,,"Savings Account, Current Account",All,National Schemes through Post office,,0
+Man,53,North 24 Parganas,Suburbs,Eighth grade,Self -reliant,Rs5000 to Rs10000,,,,,,0
+Woman,34,North 24 Parganas,Suburbs,Secondary,Housewife,Rs5000 to Rs10000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,6.5
+Woman,80,North 24 Parganas,Suburbs,No,Housewife,below Rs. 5000,Public bank,Not,None,Recurrent Deposit,Yes,1.9375
+Woman,70,North 24 Parganas,Suburbs,No,Maid,below Rs. 5000,Public bank,Savings Account,None,None,Yes,0.244791667
+Woman,30,North 24 Parganas,City,Primary education,Other,below Rs. 5000,Public bank,Savings Account,None,None,Yes,0.103732639
+Woman,35,North 24 Parganas,Suburbs,No,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,2.68395544
+Woman,20,North 24 Parganas,Suburbs,Eighth grade,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,1.46049443
+Woman,37,North 24 Parganas,Suburbs,No ,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,0.205041202
+Woman,70,North 24 Parganas,Suburbs,No ,Housewife,below Rs. 5000,Public bank,Savings Account,None,None,Yes,0.1004201
+Woman,55,North 24 Parganas,Suburbs,Primary education,Self -reliant,below Rs. 5000,,,,,,0
+Woman,47,North 24 Parganas,Suburbs,Secondary,Business,Rs5000 to Rs10000,Public bank,Savings Account,UPI,None,Yes,21
+Woman,60,North 24 Parganas,Suburbs,Primary education,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,1.833333333
+Woman,35,North 24 Parganas,Suburbs,Eighth grade,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,5.208333333
+Woman,40,North 24 Parganas,Suburbs,Primary education,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,None,Recurrent Deposit,Yes,0.517361111
+Man,58,North 24 Parganas,Suburbs,Graduation,Private job,Rs 10000 to Rs 20000,Public bank,Savings Account,None,Fixed Deposit,Yes,0.126446759
+Man,21,North 24 Parganas,Suburbs,Post Graduation,Student,below Rs. 5000,Public bank,Savings Account,UPI,None,Yes,6.56322338
+Man,21,North 24 Parganas,Suburbs,Higher Secondary,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,UPI,None,Yes,0.630268615
+Man,45,North 24 Parganas,Suburbs,Primary education,Self -reliant,Rs 10000 to Rs 20000,Public bank,Savings Account,None,LIC,Yes,0.135855718
+Man,62,North 24 Parganas,Suburbs,Secondary,Self -reliant,below Rs. 5000,Public bank,Savings Account,None,None,Yes,0.094654643
+Man,40,North 24 Parganas,Suburbs,Higher Secondary,Business,Rs5000 to Rs10000,Public bank,Savings Account,RTGS,Share Market,Yes,8.273663661
+Man,24,North 24 Parganas,Suburbs,Higher Secondary,Business,Rs 10000 to Rs 20000,Private bank,Savings Account,UPI,None,Yes,15.13683183
+Man,52,North 24 Parganas,Suburbs,Primary education,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,None,None,Yes,1.344735986
+Man,53,North 24 Parganas,Suburbs,Primary education,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,None,Fixed Deposit,Yes,0.195394665
+Man,22,North 24 Parganas,Suburbs,Primary education,Self -reliant,below Rs. 5000,Public bank,Current Account,None,None,Yes,0.099616222
+Man,49,North 24 Parganas,Suburbs,Primary education,Unemployed,below Rs. 5000,Public bank,Savings Account,None,None,Yes,1.137452028
+Man,31,North 24 Parganas,Suburbs,Secondary,Self -reliant,Rs 10000 to Rs 20000,Public bank,Savings Account,RTGS,LIC,Yes,22.13745203
+Man,58,North 24 Parganas,Suburbs,No ,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,None,Recurrent Deposit,Yes,1.928121002
+Man,63,North 24 Parganas,Suburbs,Secondary,Business,Rs5000 to Rs10000,Public bank,Savings Account,"RTGS,NEFT",Fixed Deposit,Yes,0.244010084
+Man,70,North 24 Parganas,Suburbs,Higher Secondary,Self -reliant,Rs 10000 to Rs 20000,Public bank,Savings Account,None,None,Yes,0.103667507
+Man,33,North 24 Parganas,Suburbs,Higher Secondary,Business,Rs5000 to Rs10000,Public bank,Savings Account,UPI,Fixed Deposit,Yes,11.05183375
+Man,50,North 24 Parganas,Suburbs,No ,Self -reliant,Rs5000 to Rs10000,Public bank,Savings Account,None,None,Yes,11.01295844
+Man,55,North 24 Parganas,Suburbs,Primary education,Self -reliant,Rs 10000 to Rs 20000,Public bank,Savings Account,None,None,Yes,1.00107987
